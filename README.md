@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JF071&style=for-the-badge&color=0F3460&label=VISITAS+AL+PERFIL"/>
+</div>
+
+---
+
 <h1 align="center">¡Hola! Soy Juan Felipe Ávila Patiño 👋</h1>
 
 <h3 align="center">Software Engineer · Full Stack Developer · ERP & Systems Integration</h3>
@@ -12,7 +18,7 @@
 
 ---
 
-##  Sobre mí
+## 💫 Sobre mí
 
 Soy Ingeniero de Software apasionado por el desarrollo de soluciones tecnológicas que optimicen procesos empresariales y generen impacto real. Me especializo en **desarrollo full stack**, **automatización**, **integración de sistemas ERP/POS** y construcción de aplicaciones web modernas.
 
@@ -29,7 +35,7 @@ Me considero una persona analítica, autodidacta y orientada a resultados, con f
 
 ## 🌐 Contacto
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/juan-felipe-avila-patiño-98074b250">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -118,10 +124,38 @@ Me considero una persona analítica, autodidacta y orientada a resultados, con f
 
 ---
 
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JF071&theme=github-compact&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🐍 Snake de contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JF071/JF071/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JF071/JF071/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/JF071/JF071/output/github-snake.svg"/>
+  </picture>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JF071&theme=dark&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=JF071&theme=transparent&hide_border=false&layout=compact"/>
 </p>
 
 ---
