@@ -111,19 +111,6 @@ Me considero una persona analítica, autodidacta y orientada a resultados, con f
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JF071&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JF071&theme=transparent&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JF071&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
----
-
 ## 📅 Contribution Graph
 
 <p align="center">
@@ -140,14 +127,6 @@ Me considero una persona analítica, autodidacta y orientada a resultados, con f
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JF071/JF071/output/github-snake.svg"/>
     <img alt="snake" src="https://raw.githubusercontent.com/JF071/JF071/output/github-snake.svg"/>
   </picture>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JF071&theme=dark&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
